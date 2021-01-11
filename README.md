@@ -1,5 +1,8 @@
 # INF504 - These resources are for your informational use. Please consider purchasing the texts from Amazon or another source to support the authors.
  
+ I have included both an Amazon link (where purchase is available) and a link to the source PDF I uploaded to this repository.
+ 
+ 
 [Bis06] Christopher M. Bishop. Pattern Recognition and Machine Learning. Springer, 2006.
 
 https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738
