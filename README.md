@@ -17,6 +17,14 @@ http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf
 
 https://www.tandfonline.com/doi/pdf/10.1080/10618600.2017.1384734?needAccess=true
 
+[Far14] Julian James Faraway. Linear models with R. Chapman & Hall/CRC Texts in Statistical Science. CRC Press, 2 edition, 2014.
+
+https://www.amazon.com/Linear-Models-Chapman-Statistical-Science/dp/1439887330/ref=sr_1_2?dchild=1&keywords=linear+models+with+r+faraway&qid=1614370652&sr=8-2
+
+[Far16] Julian James Faraway. Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Methods. Chapman & Hall/CRC Texts in Statistical Science. CRC Press, 2 edition, 2016.
+
+https://www.amazon.com/Extending-Linear-Model-Generalized-Nonparametric/dp/149872096X/ref=sr_1_3?dchild=1&keywords=linear+models+with+r+faraway&qid=1614370652&sr=8-3
+
 [GCS+14] Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin. Bayesian Data Analysis. Chapman & Hall/CRC, Boca Raton, 3rd edition, 2014.
 
 https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954
@@ -41,11 +49,32 @@ https://www.amazon.com/Statistical-McGraw-Hill-Operations-Decision-Sciences-dp-0
 
 https://d1b10bmlvqabco.cloudfront.net/attach/is282rqc4001vv/is6ccr3fl0e37q/iwfnjvgvl53z/Michael_H_Kutner_Christopher_J._Nachtsheim_JohnBookFi.org.pdf
 
+[LPM+08] 
+Feng Liang, Rui Paulo, German Molina, Merlise A Clyde, and Jim O Berger. Mixtures of g priors for bayesian variable selection. Journal of the American Statistical Association, 103(481):410–423, 2008.
+
+https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/readings/liang-etal.pdf
+
+[LS99] Michael Lavine and Mark J. Schervish. Bayes factors: what they are and what they are not. The American Statistician, 53(2):119–122, May 1999.
+
+https://www.jstor.org/stable/2685729?seq=1#metadata_info_tab_contents
+
+[MR07] Jean-Michel Marin and Christian P. Robert. Bayesian Core: A Practical Approach to Computational Bayesian Statistics. Springer, New York, 2007.
+
+https://www.amazon.com/Bayesian-Core-Practical-Computational-Statistics/dp/0387389792
+
+https://vdocuments.mx/bayesian-core-a-practical-approach-to-computational-bayesian-statistics.html
+
+SOLUTIONS: https://arxiv.org/abs/0910.4696
+
 [Mur12] Kevin P. Murphy. Machine Learning: A Probabilistic Perspective. The MIT Press, 2012.
 
 https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020
 
 https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf
+
+[PC08] Trevor Park and George Casella. The Bayesian lasso. Journal of the American Statistical Association, 103(482):681–686, June 2008.
+
+https://www.semanticscholar.org/paper/The-Bayesian-Lasso-Park-Casella/785ede21535ff3a4ccc75daa990e45363db3a363
 
 [RW06] Carl Edward Rasmussen and Christopher K. I. Williams. Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning). The MIT Press, 2006. (free online)
 
@@ -58,3 +87,7 @@ http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 https://www.amazon.com/Bayesian-Frequentist-Regression-Springer-Statistics/dp/1441909249
 
 http://antivirus.uclv.cu/update/libros/Mathematics%20and%20Statistics/Bayesian%20and%20Frequentist%20Regression%20Methods%20-%20Jon%20Wakefield%2C%202013%20-%20978-1-4419-0925-1.pdf
+
+[ZF15] Stefan Zeugner and Martin Feldkircher. Bayesian model averaging employing fixed and flexible priors: The BMS package for R. Journal of Statistical Software, 68(4):1–37, 2015.
+
+https://www.jstatsoft.org/article/view/v068i04
